@@ -1,0 +1,16 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore database files
+*.db
+
+# Ignore zip files
+*.zip
+
+# Ignore data files (if you don't want to push them to GitHub)
+dataset/
